@@ -4,7 +4,7 @@ ENV GEM_HOME /home/user/gems
 ENV PATH $GEM_HOME/bin:$PATH
 
 RUN apt-get update &&\
-    apt-get -y install ruby-full build-essential zlib1g-dev &&\
+    apt-get -y install git sudo ruby-full build-essential zlib1g-dev &&\
     apt-get clean
 
 RUN groupadd -g 1000 group && useradd -ms /usr/bin/bash -u 1000 -g 1000 user
