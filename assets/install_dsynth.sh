@@ -15,3 +15,10 @@ else
 echo "libtorch found in /usr/local/share/"
 echo "uninstall libtorch prior to upgrading it"
 fi
+
+#GET DSYNTH
+echo "downloading dsynth"
+DSYNTH="https://raw.githubusercontent.com/caillonantoine/caillonantoine.github.io/master/assets/dsynth~.zip"
+curl $DSYNTH -o dsynth.zip &> /dev/null
+unzip dsynth.zip &> /dev/null
+rm dsynth.zip &> /dev/null
