@@ -10,7 +10,7 @@ echo "unzipping libtorch"
 unzip libtorch.zip 
 rm libtorch.zip
 echo "installing libtorch"
-mv libtorch /usr/local/share/
+sudo mv libtorch /usr/local/share/
 else
 echo "libtorch found in /usr/local/share/"
 echo "uninstall libtorch prior to upgrading it"
