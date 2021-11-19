@@ -14,3 +14,11 @@ Quoted from the [ARS ELECTRONICA website](https://ars.electronica.art/prix/en/wi
 There is also an interview made with ircam [where we talk about the research part involved!](https://www.ircam.fr/article/detail/ars-electronica-2021-distingue-les-chercheurs-de-lircam/)
 
 The piece itself can be [watched here](https://www.youtube.com/watch?v=o5UXkJWJciQ) !
+
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v12.0" nonce="50a4yVLX"></script>
+
+<center>
+<div class="fb-comments" data-href="https://caillonantoine.github.io/2021/07/13/convergence.html" data-width="" data-numposts="5"></div>
+</center>
