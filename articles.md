@@ -5,7 +5,7 @@ layout: default
 
 # Articles
 
-![banner](/assets/sppok.jpg)
+![banner](/assets/spook.jpg)
 
 ---
 
