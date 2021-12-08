@@ -12,3 +12,7 @@ I have been experimenting with [RAVE](https://github.com/caillonantoine/RAVE) a 
 For the artwork I have used a clip guided diffusion model with the prompt *a forgotten radio*, which produced those nice images !
 
 <img src="/assets/forgotten-radio-artwork.png" width=256px height=256px /><img src="/assets/forgotten-radio-artwork2.png" width=256px height=256px />
+
+<center>
+<div class="fb-comments" data-href="https://caillonantoine.github.io/2021/12/08/forgotten-radio.html" data-width="" data-numposts="5"></div>
+</center>
