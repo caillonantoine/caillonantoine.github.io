@@ -1,5 +1,5 @@
 ---
-title: 1st RAVE livestream
+title: Randomly generated 20's music to train/infer to
 layout: post
 ---
 
