@@ -8,6 +8,12 @@ layout: post
 <meta name="twitter:description" content="Unconditional generation by RAVE trained on music from the 20's, live streamed from nn~ in real-time. The model used during this livestream keeps training and should improve over time.">
 <meta name="twitter:image" content="https://caillonantoine.github.io/assets/new_cover.png">
 
+<meta
+  http-equiv="refresh"
+  content="0; URL=https://www.youtube.com/watch?v=L2eVjMMvb2A"
+/>
+<link rel="canonical" href="https://www.youtube.com/watch?v=L2eVjMMvb2A" />
+
 <iframe width="100%" src="https://www.youtube.com/embed/L2eVjMMvb2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Unconditional generation by RAVE trained on music from the 20's, live streamed from nn~ in real-time. The model used during this livestream keeps training and should improve over time.
