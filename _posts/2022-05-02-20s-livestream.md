@@ -10,9 +10,9 @@ layout: post
 
 <meta
   http-equiv="refresh"
-  content="0; URL=https://www.youtube.com/watch?v=L2eVjMMvb2A"
+  content="0; URL=https://www.youtube.com/watch?v=j0WEv0SfEf4"
 />
-<link rel="canonical" href="https://www.youtube.com/watch?v=L2eVjMMvb2A" />
+<link rel="canonical" href="https://www.youtube.com/watch?v=j0WEv0SfEf4" />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L2eVjMMvb2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
