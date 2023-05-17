@@ -11,5 +11,5 @@ RUN groupadd -g 1000 group && useradd -ms /usr/bin/bash -u 1000 -g 1000 user
 USER user
 
 RUN gem install jekyll bundler
-
+WORKDIR /website
 CMD bash
