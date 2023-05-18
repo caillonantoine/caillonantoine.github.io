@@ -7,6 +7,9 @@ I have recently released the code for [MSPrior](https://github.com/caillonantoin
 
 ![nn~ patch](https://github.com/caillonantoine/msprior/blob/master/docs/maxmsp_usage.png?raw=true)
 
+![stars](https://img.shields.io/github/stars/caillonantoine/msprior?style=flat)
+![forks](https://img.shields.io/github/forks/caillonantoine/msprior)
+
 A feature that is coming soon is the conditioning of the prior model on top of a _semantic representation_, extracted through the use of a self-supervised model. I have tried this setup on a dataset composed of [78rpm recordings](https://archive.org/details/78rpm) denoised using the technique described [in this article](https://arxiv.org/abs/2202.08702). Here are a few samples from the dataset, which total size is approximately **2 non-stop years of music**.
 
 <table>
