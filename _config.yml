@@ -21,10 +21,11 @@
 title: Antoine Caillon
 email: caillon@ircam.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student at ircam (Paris), I work on deep generative models applied to multi instrument audio synthesis, and other deep related topics, such as representation learning, realtime generation, and more. 
+  Researcher at ircam (Paris), working on neural audio synthesis and other related topics, such as representation learning, realtime generation, and more. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  caillonantoine
+twitter_username: antoine_caillon
 
 # Build settings
 theme: minima
