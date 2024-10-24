@@ -1,5 +1,5 @@
 ---
-title: MusicFX DJ
+title: Opening the doors of music creation - Jacob Collier collaboration
 layout: default
 ---
 
